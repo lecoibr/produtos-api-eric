@@ -1,0 +1,50 @@
+# Compilação e saída de arquivos
+/bin/
+/build/
+/out/
+/target/
+/classes/
+/*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Arquivos temporários e caches
+*.tmp
+*.swp
+*.swo
+*.bak
+*.backup
+*.orig
+
+# Configurações específicas de IDEs
+## IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+/out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+
+## VS Code
+.vscode/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente
+.env
+*.local
+*.secret
+
+# Diretórios criados por ferramentas
+.mvn/
+.gradle/
