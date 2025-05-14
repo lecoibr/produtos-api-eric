@@ -5,6 +5,7 @@ API RESTful desenvolvida com Spring Boot para gerenciar produtos.
 ## Endpoints
 
 - Java 21
+- Maven
 - Criação de produto
 - Atualização de produto
 - Remoção de produto
